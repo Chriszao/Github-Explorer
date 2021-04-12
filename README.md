@@ -3,7 +3,7 @@
 ## Features 🌟
 - [x] Search for repositories;
 - [x] repository information;
-- [ ] Repository projects.
+- [x] Repository projects.
 
 ## What i'm learning?
 
