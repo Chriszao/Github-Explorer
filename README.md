@@ -1,7 +1,7 @@
 # GitHub Explorer 🐱‍👤
 
 ## Features 🌟
-- [ ] Search for repositories;
+- [x] Search for repositories;
 - [ ] repository information;
 - [ ] Repository projects.
 
